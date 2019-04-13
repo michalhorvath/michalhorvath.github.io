@@ -1,1 +1,1 @@
-# michalhorvath.github.io
+# michalhorvath.io
